@@ -1,0 +1,219 @@
+{
+    "hotelId": "00U5845f022gbrugg",
+    "hotelName": "Jugendherberge Brugg",
+    "areaUnitOfMeasureCode": 14,
+    "distanceUnitOfMeasureCode": 2,
+    "timeZone": "Europe/Zurich",
+    "weightUnitOfMeasureCode": 16,
+    "currencyCode": "CHF",
+    "hotelInfo": {
+        "whenBuilt": "1854-09-01" ,
+        "position": {
+            "altitude": 352,
+            "latitude": 47.481790,
+            "longitude": 8.194111
+        },
+        "descriptions": {
+            "multimediadescriptions": [
+                {
+                    "images": [
+                        {
+                            "sort": 1,
+                            "imageId": "00L55eej8ex46e54",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1280x900/256/25631653.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "sort": 2,
+                            "imageId": "00L55aeg1th44e5d",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1280x900/256/25631667.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+                                        {
+                            "sort": 3,
+                            "imageId": "00L555e48t856e5d",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1280x900/256/25631674.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        }
+                    ],
+                    "texts": [
+                            {
+                                "detailsCode": 2,
+                                "text": "Diese beschauliche Jugendherberge in einer ehemaligen Burg ist wenige Gehminuten von der Aare, 14 Gehminuten vom Vindonissa Museum und 1 km vom Bahnhof Brugg AG entfernt. "
+                            },
+                            {
+                                "detailsCode": 71,
+                                "text": "Spend the night where Romans once lived!"
+                            }
+                    ]
+                }
+            ]
+        },
+        "services": [
+                {
+                  "code": 173,
+                  "codeDetails": "Breakfast"
+                },
+                {
+                  "code": 343,
+                  "codeDetails": "WLAN"
+                }
+        ]
+    },
+    "affiliationInfo": {
+        "awards": [
+            {
+                "provider": "HotelAssociation",
+                "rating": 4
+            },
+            {
+                "provider": "TripAdvisor",
+                "rating": 8.0
+            }
+        ]
+    },
+    "facilityInfo": {
+        "guestRooms": [
+            {
+                "id": "00U5846d022f2911",
+                "roomTypeName": "Junior Suite",
+                "minOccupancy": 1,
+                "maxOccupancy": 3,
+                "maxChildOccupancy": 1,
+                "maxAdultOccupancy": 2,
+                "typeRoom": {
+                    "standardOccupancy": 1,
+                    "standardNumBeds": 1,
+                    "maxCribs": 1,
+                    "maxRollaways": 0,
+                    "composite": false,
+                    "quantity": 26
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 2,
+                        "codeDetail": "Air conditioning"
+                    },
+                    {
+                        "roomAmenityCode": 53,
+                        "codeDetail": "Indoor parking"
+                    },
+                    {
+                        "roomAmenityCode": 76,
+                        "codeDetail": "Restaurant"
+                    }
+                ],
+                "multimediaDescriptions": [{
+                    "images": [
+                        {
+                            "imageId": "00U5846e022f2915",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1024x768/256/25631662.jpg",
+                            "imageWidth": 1920,
+                            "imageHeight": 1080,
+                            "dimensionCategory": "Desktop"
+                        },
+                        {
+                            "imageId": "00U5846e022e4567",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1024x768/256/25631677.jpg",
+                            "imageWidth": 720,
+                            "imageHeight": 480,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "imageId": "00U5846e022f2916",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1024x768/256/25631672.jpg",
+                            "imageWidth": 1920,
+                            "imageHeight": 1080,
+                            "dimensionCategory": "Desktop"
+                        }
+                    ]
+                }]
+            },
+            {
+                "id": "00U5846e022f2912",
+                "roomTypeName": "Single",
+                "minOccupancy": 1,
+                "maxOccupancy": 4,
+                "maxChildOccupancy": 2,
+                "maxAdultOccupancy": 2,
+                "typeRoom": {
+                    "standardOccupancy": 2,
+                    "standardNumBeds": 1,
+                    "maxCribs": 1,
+                    "maxRollaways": 1,
+                    "composite": false,
+                    "quantity": 14
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 2,
+                        "codeDetail": "Air conditioning"
+                    },
+                    {
+                        "roomAmenityCode": 92,
+                        "codeDetail": "Safe"
+                    }
+                ],
+                "multimediaDescriptions": [
+                    {
+                        "images": [
+                            {
+                                "imageId": "24a",
+                                "imageUrl": "https://t-ec.bstatic.com/images/hotel/max1024x768/308/30838306.jpg",
+                                "imageWidth": 350,
+                                "imageHeight": 150,
+                                "dimensionCategory": "Mobile"
+                            },
+                            {
+                                "imageId": "25a",
+                                "imageUrl": "https://t-ec.bstatic.com/images/hotel/max1024x768/308/30838304.jpg",
+                                "imageWidth": 350,
+                                "imageHeight": 150,
+                                "dimensionCategory": "Mobile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "contactInfos": [
+        {
+            "companyName": "Jugendherberge Brugg",
+            "addresses": [
+                {
+                    "streetNmbr": "11",
+                    "addressLine": "Im Hof",
+                    "cityName": "Brugg",
+                    "postalCode": "5200",
+                    "stateProv": "Aargau",
+                    "countryName": "Schweiz"
+                }
+            ],
+            "phones": [
+                {
+                    "phoneTechType": 1,
+                    "countryAccessCode": 41,
+                    "phoneNumber": "0564411020"
+                }
+            ],
+            "emails": [
+                {
+                    "email": "brugg@youthhostel.ch"
+                }
+            ]
+        }
+    ],
+    "policies": {
+        "policyInfo": {
+            "minChildAge": 2,
+            "maxChildAge": 12
+        }
+    }
+}

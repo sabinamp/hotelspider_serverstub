@@ -1,0 +1,29 @@
+[
+  {
+    "guestroomId": "string",
+    "products": [
+       
+      {
+        "rateplanId": "00B5846B02barlac-City Suite",
+        "totalPrice": 355,
+        "discount": 15,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 2,
+        "limitedOffer": true,
+        "popularity": 64
+      },
+      {
+        "rateplanId": "00B5846B02barlac-Double",
+        "totalPrice": 268,
+        "discount": 15,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 14,
+        "limitedOffer": true,
+        "popularity": 64
+      }
+     
+    ]
+  }
+]

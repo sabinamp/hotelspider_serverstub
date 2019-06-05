@@ -1,0 +1,235 @@
+{
+    "hotelId": "00U5847f022marri",
+    "hotelName": "Hotel Marriott",
+    "areaUnitOfMeasureCode": 14,
+    "distanceUnitOfMeasureCode": 2,
+    "timeZone": "Europe/Zurich",
+    "weightUnitOfMeasureCode": 16,
+    "currencyCode": "CHF",
+    "hotelInfo": {
+        "whenBuilt": "1853-09-01" ,
+        "position": {
+            "altitude": 413,
+            "latitude": 47.3825796207,
+            "longitude": 8.54042923447
+        },
+        "descriptions": {
+            "multimediadescriptions": [
+                {
+                    "images": [
+                        {
+                            "sort": 1,
+                            "imageId": "00L75eej8eh46e6r",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1024x768/826/82638412.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "sort": 2,
+                            "imageId": "00L57aej8th46e6d",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1280x900/204/20417974.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "sort": 3,
+                            "imageId": "00L57aej8th46e6d",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1280x900/976/97622304.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        }
+                    ],
+                    "texts": [
+                        {
+                            "detailsCode": 2,
+                            "text": "Zuerich Marriott Hotel laedt dich ein, die Schweiz mit Style zu erleben."
+                        },
+                            {
+                                "detailsCode": 71,
+                                "text": "This is the restaurant description"
+                            }
+                    ]
+                }
+            ]
+        },
+        "services": [
+                {
+                    "code": 5,
+                    "codeDetails": "Air conditioning"
+                },
+                {
+                    "code": 54,
+                    "codeDetails": "Indoor pool"
+                },
+                {
+                    "code": 173,
+                    "codeDetails": "Breakfast"
+                },
+                {
+                    "code": 343,
+                    "codeDetails": "WLAN"
+                }
+        ]
+    },
+    "affiliationInfo": {
+        "awards": [
+            {
+                "provider": "HotelAssociation",
+                "rating": 5
+            },
+            {
+                "provider": "Hotels.com",
+                "rating": 8.6
+        	}
+      ]
+    },
+    "facilityInfo": {
+        "guestRooms": [
+            {
+                "id": "00U5846d022f2911",
+                "roomTypeName": "Suite Panorama",
+                "minOccupancy": 1,
+                "maxOccupancy": 4,
+                "maxChildOccupancy": 3,
+                "maxAdultOccupancy": 4,
+                "typeRoom": {
+                    "standardOccupancy": 1,
+                    "standardNumBeds": 1,
+                    "maxCribs": 1,
+                    "maxRollaways": 0,
+                    "composite": false,
+                    "quantity": 26
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 2,
+                        "codeDetail": "Air conditioning"
+                    },
+                    {
+                        "roomAmenityCode": 53,
+                        "codeDetail": "Indoor parking"
+                    },
+                    {
+                        "roomAmenityCode": 92,
+                        "codeDetail": "Safe"
+                    },
+                    {
+                        "roomAmenityCode": 173,
+                        "codeDetail": "Breakfast"
+                    }
+                ],
+                "multimediaDescriptions": [{
+                    "images": [
+                        {
+                            "imageId": "00U5846e022f2915",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1024x768/435/43578658.jpg",
+                            "imageWidth": 1920,
+                            "imageHeight": 1080,
+                            "dimensionCategory": "Desktop"
+                        },
+                        {
+                            "imageId": "00U5846e022e4567",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1024x768/105/105966376.jpg",
+                            "imageWidth": 720,
+                            "imageHeight": 480,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "imageId": "00U5846e022f2916",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1024x768/487/48708699.jpg",
+                            "imageWidth": 1920,
+                            "imageHeight": 1080,
+                            "dimensionCategory": "Desktop"
+                        }
+                    ]
+                }]
+            },
+            {
+                "id": "00U5846e022f2912",
+                "roomTypeName": "Double deluxe",
+                "minOccupancy": 1,
+                "maxOccupancy": 4,
+                "maxChildOccupancy": 2,
+                "maxAdultOccupancy": 2,
+                "typeRoom": {
+                    "standardOccupancy": 2,
+                    "standardNumBeds": 1,
+                    "maxCribs": 1,
+                    "maxRollaways": 0,
+                    "composite": false,
+                    "quantity": 14
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 2,
+                        "codeDetail": "Air conditioning"
+                    },
+                    {
+                        "roomAmenityCode": 92,
+                        "codeDetail": "Safe"
+                    },
+                    {
+                        "roomAmenityCode": 173,
+                        "codeDetail": "Breakfast"
+                    }
+                ],
+                "multimediaDescriptions": [
+                    {
+                        "images": [
+                            {
+                                "imageId": "16a",
+                                "imageUrl": "https://s-ec.bstatic.com/images/hotel/max1024x768/491/49175870.jpg",
+                                "imageWidth": 350,
+                                "imageHeight": 150,
+                                "dimensionCategory": "Mobile"
+                            },
+                            {
+                                "imageId": "17a",
+                                "imageUrl": "https://t-ec.bstatic.com/images/hotel/max1024x768/986/98699095.jpg",
+                                "imageWidth": 350,
+                                "imageHeight": 150,
+                                "dimensionCategory": "Mobile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "contactInfos": [
+        {
+            "companyName": "Hotel Marriott",
+            "addresses": [
+                {
+                    "streetNmbr": "42",
+                    "addressLine": "Neumuehlequai",
+                    "cityName": "Zuerich",
+                    "postalCode": "8006",
+                    "stateProv": "Zuerich",
+                    "countryName": "Schweiz"
+                }
+            ],
+            "phones": [
+                {
+                    "phoneTechType": 1,
+                    "countryAccessCode": 41,
+                    "phoneNumber": "0443607070"
+                }
+            ],
+            "emails": [
+                {
+                    "email": "marriott.zurich@marriotthotels.com"
+                }
+            ]
+        }
+    ],
+    "policies": {
+        "policyInfo": {
+            "minChildAge": 2,
+            "maxChildAge": 12
+        }
+    }
+}

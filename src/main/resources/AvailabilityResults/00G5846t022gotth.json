@@ -1,0 +1,29 @@
+[
+  {
+    "guestroomId": "string",
+    "products": [
+
+      {
+        "rateplanId": "00G5846t022gotth-Junior Suite",
+        "totalPrice": 310,
+        "discount": 15,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 26,
+        "limitedOffer": true,
+        "popularity": 64
+      },
+      {
+        "rateplanId": "00G5846t022gotth-Double",
+        "totalPrice": 360,
+        "discount": 35,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 14,
+        "limitedOffer": true,
+        "popularity": 55
+      }
+      
+    ]
+  }
+]

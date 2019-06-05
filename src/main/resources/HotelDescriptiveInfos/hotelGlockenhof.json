@@ -1,0 +1,264 @@
+{
+    "hotelId": "00U5846j020d210g",
+    "hotelName": "Hotel Glockenhof",
+    "areaUnitOfMeasureCode": 14,
+    "distanceUnitOfMeasureCode": 2,
+    "timeZone": "Europe/Zurich",
+    "weightUnitOfMeasureCode": 16,
+    "currencyCode": "CHF",
+    "hotelInfo": {
+        "whenBuilt": "1900-01-01",
+        "position": {
+            "altitude": 411,
+            "latitude": 47.37290,
+            "longitude": 8.53652
+        },
+        "descriptions": {
+            "multimediadescriptions": [
+                {
+                    "images": [
+                        {
+                            "sort": 1,
+                            "imageId": "00L55ewe83f5456g",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1280x900/144/144514859.jpg",
+                            "imageWidth": 550,
+                            "imageHeight": 376,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "sort": 2,
+                            "imageId": "00L55ewr83a7798g",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1280x900/144/144514783.jpg",
+                            "imageWidth": 550,
+                            "imageHeight": 330,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "sort": 3,
+                            "imageId": "00L55ewr83a5251g",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1280x900/132/132611789.jpg",
+                            "imageWidth": 495,
+                            "imageHeight": 330,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "sort": 4,
+                            "imageId": "00L55ewr83a1836g",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1280x900/135/13550299.jpg",
+                            "imageWidth": 495,
+                            "imageHeight": 330,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "sort": 5,
+                            "imageId": "00L55ewr83a6336m",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1280x900/297/29763817.jpg",
+                            "imageWidth": 495,
+                            "imageHeight": 330,
+                            "dimensionCategory": "Mobile"
+                        }
+                    ],
+                    "texts": [
+                            {
+                                "detailsCode": 2,
+                                "text": "The 91 air-conditioned rooms are stylish and roomy, bright and modern, and also highly individual."
+                            },
+                            {
+                                "detailsCode": 71,
+                                "text": "This is the restaurant description"
+                            }
+                    ]
+                }
+            ]
+        },
+        "services": [
+                {
+                    "code": 5,
+                    "codeDetails": "Air conditioning"
+                },
+                {
+                    "code": 198,
+                    "codeDetails": "Non-smoking rooms"
+                },
+                {
+                    "code": 22,
+                    "codeDetails": "Concierge desk."
+                },
+                {
+                    "code": 35,
+                    "codeDetails": "Fitness Center"
+                },
+                {
+                    "code": 343,
+                    "codeDetails": "WLAN"
+                },
+                {
+                    "code": 173,
+                    "codeDetails": "Breakfast"
+                }
+        ]
+    },
+    "affiliationInfo": {
+        "awards": [
+            {
+                "provider": "HotelAssociation",
+                "rating": 4.5
+            },
+            {
+                "provider": "TripAdvisor",
+                "rating": 8.6
+            }
+        ]
+    },
+    "facilityInfo": {
+        "guestRooms": [
+            {
+                "id": "10",
+                "roomTypeName": "Single Style",
+                "minOccupancy": 1,
+                "maxOccupancy": 2,
+                "maxChildOccupancy": 1,
+                "maxAdultOccupancy": 1,
+                "typeRoom": {
+                    "standardOccupancy": 1,
+                    "standardNumBeds": 1,
+                    "maxCribs": 0,
+                    "maxRollaways": 1,
+                    "composite": false,
+                    "quantity": 25
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 5,
+                        "codeDetail": "Air conditioning"
+                    },
+                    {
+                        "roomAmenityCode": 1,
+                        "codeDetail": "24-hour front desk"
+                    },
+                     {
+                        "roomAmenityCode": 7,
+                        "codeDetail": "ATM on site"
+                    }
+                ],
+                "multimediaDescriptions": [{
+                    "images": [
+                        {
+                            "imageId": "00U5846e022m5456",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1024x768/144/144513147.jpg",
+                            "imageWidth": 375,
+                            "imageHeight": 250,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "imageId": "00U5846e022m7798",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1024x768/140/140008682.jpg",
+                            "imageWidth": 375,
+                            "imageHeight": 250,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "imageId": "00U5846e022m5252",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1024x768/144/144513100.jpg",
+                            "imageWidth": 375,
+                            "imageHeight": 250,
+                            "dimensionCategory": "Mobile"
+                        },
+                         {
+                            "imageId": "00L55ewr83a6366m",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1024x768/834/83428323.jpg",
+                            "imageWidth": 375,
+                            "imageHeight": 250,
+                            "dimensionCategory": "Mobile"
+                        }
+                    ]
+                }]
+            },
+            {
+                "id": "9",
+                "roomTypeName": "Double",
+                "minOccupancy": 1,
+                "maxOccupancy": 3,
+                "maxChildOccupancy": 2,
+                "maxAdultOccupancy": 2,
+                "typeRoom": {
+                    "standardOccupancy": 2,
+                    "standardNumBeds": 2,
+                    "maxCribs": 1,
+                    "maxRollaways": 1,
+                    "composite": false,
+                    "quantity": 25
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 5,
+                        "codeDetail": "Air conditioning"
+                    },
+                    {
+                        "roomAmenityCode": 13,
+                        "codeDetail": "Bathtub"
+                    },
+                    {
+                        "roomAmenityCode": 92,
+                        "codeDetail": "Safe"
+                    }
+                ],
+                "multimediaDescriptions": [
+                    {
+                        "images": [
+                            {
+                                "imageId": "7a",
+                                "imageUrl": "https://s-ec.bstatic.com/images/hotel/max1024x768/297/29763861.jpg",
+                                "imageWidth": 375,
+                                "imageHeight": 250,
+                                "dimensionCategory": "Mobile"
+                            },
+                            {
+                                "imageId": "8a",
+                                "imageUrl": "https://t-ec.bstatic.com/images/hotel/max1024x768/834/83430546.jpg",
+                                "imageWidth": 375,
+                                "imageHeight": 250,
+                                "dimensionCategory": "Mobile"
+                            }
+                        ]
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    "contactInfos": [
+        {
+            "companyName": "Hotel Glockehof",
+            "addresses": [
+                {
+                    "streetNmbr": "31",
+                    "addressLine": "Sihlstrasse",
+                    "cityName": "Zuerich",
+                    "postalCode": "8001",
+                    "stateProv": "Zuerich",
+                    "countryName": "Schweiz"
+                }
+            ],
+            "phones": [
+                {
+                    "phoneTechType": 1,
+                    "countryAccessCode": 41,
+                    "phoneNumber": "0442259191"
+                }
+            ],
+            "emails": [
+                {
+                    "email": "info@glockenhof.ch"
+                }
+            ]
+        }
+    ],
+    "policies": {
+        "policyInfo": {
+            "minChildAge": 2,
+            "maxChildAge": 12
+        }
+    }
+}

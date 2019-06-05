@@ -1,0 +1,226 @@
+{
+  "hotelId": "00F5846A02nowifi2",
+  "hotelName": "Hotel No Wifi Brugg 2",
+  "areaUnitOfMeasureCode": 14,
+  "distanceUnitOfMeasureCode": 2,
+  "timeZone": "Europe/Zurich",
+  "weightUnitOfMeasureCode": 16,
+  "currencyCode": "CHF",
+  "hotelInfo": {
+    "whenBuilt": "1844-01-01",
+    "position": {
+      "altitude": 352,
+      "latitude":  47.484220,
+      "longitude": 8.205203
+
+    },
+
+    "descriptions": {
+      "multimediadescriptions": [
+        {
+          "images": [
+            {
+              "sort": 1,
+              "imageId": "00FA5Akb8eh46eB2",
+              "imageUrl": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn5.vectorstock.com%2Fi%2F1000x1000%2F74%2F44%2Fno-wifi-sign-wi-fi-symbol-wireless-network-vector-1907444.jpg&f=1",
+              "imageWidth": 3000,
+              "imageHeight": 1815,
+              "dimensionCategory": "Mobile"
+            },
+
+            {
+                            "sort": 2,
+                            "imageId": "00FAKEBej8th46eB3",
+                            "imageUrl": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.68BX5YyUKYTvURDcLKsuKgHaGS%26pid%3DApi&f=1",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+                                                {
+                            "sort": 3,
+                            "imageId": "00FAKeBj8th46eB3",
+                            "imageUrl": "https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Ffarm5.static.flickr.com%2F4048%2F4633434239_788fba3ca7_o.jpg&f=1",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+
+                        {
+                            "sort": 4,
+                            "imageId": "00FAke5aej8th46B4",
+                            "imageUrl": "https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Ffarm5.static.flickr.com%2F4048%2F4633434239_788fba3ca7_o.jpg&f=1",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+            }
+
+          ],
+          "texts": [
+
+              {
+                "detailsCode": 2,
+                "text": "Das Hotel ohne WIFI in BRUGG!!!!!."
+              },
+
+              {
+                "detailsCode": 71,
+                "text": "This is the restaurant description"
+              }
+
+          ]
+        }
+      ]
+    },
+    "services": [
+  				{
+                    "code": 5,
+                    "codeDetails": "Air conditioning"
+                },
+                {
+                    "code": 198,
+                    "codeDetails": "Non-smoking rooms"
+                }
+
+    ]
+  },
+  "affiliationInfo": {
+    "awards": [
+      {
+        "provider": "HotelAssociation",
+        "rating": 3
+      },
+      {
+        "provider": "TripAdvisor",
+        "rating": 6.5
+      },
+      {
+        "provider": "Google",
+        "rating": 4.6
+      }
+    ]
+  },
+  "facilityInfo": {
+    "guestRooms": [
+      {
+        "id": "00U5846e022f2cs1",
+        "roomTypeName": "City Suite",
+        "minOccupancy": 1,
+        "maxOccupancy": 6,
+        "maxChildOccupancy": 2,
+        "maxAdultOccupancy": 4,
+        "typeRoom": {
+          "standardOccupancy": 2,
+          "standardNumBeds": 2,
+          "maxCribs": 1,
+          "maxRollaways": 0,
+          "composite": false,
+          "quantity": 1
+        },
+        "amenities": [
+                    {
+                        "roomAmenityCode": 5,
+                        "codeDetail": "Air conditioning"
+                    },
+                    {
+                        "roomAmenityCode": 35,
+                        "codeDetail": "Fitness Service"
+                    }
+        ],
+        "multimediaDescriptions": [{
+          "images": [
+            {
+              "imageId": "23",
+              "imageUrl": "https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.hannaxel.de%2Fwp-content%2Fuploads%2F2007%2F09%2Fkalligraphie1.jpg&f=1",
+              "imageWidth": 610,
+              "imageHeight": 610,
+              "dimensionCategory": "Desktop"
+            }
+          ]
+        }]
+      },
+        {
+            "id": "9",
+            "roomTypeName": "Comfort Double Room",
+            "minOccupancy": 1,
+            "maxOccupancy": 4,
+            "maxChildOccupancy": 2,
+            "maxAdultOccupancy": 2,
+            "typeRoom": {
+                "standardOccupancy": 2,
+                "standardNumBeds": 2,
+                "maxCribs": 1,
+                "maxRollaways": 1,
+                "composite": false,
+                "quantity": 15
+            },
+            "amenities": [
+                {
+                    "roomAmenityCode": 2,
+                    "codeDetail": "Air conditioning"
+                },
+                {
+                    "roomAmenityCode": 92,
+                    "codeDetail": "Safe"
+                },
+                {
+                    "roomAmenityCode": 173,
+                    "codeDetail": "Breakfast"
+                }
+            ],
+            "multimediaDescriptions": [
+                {
+                    "images": [
+                        {
+                            "imageId": "17a",
+                            "imageUrl": "https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.hannaxel.de%2Fwp-content%2Fuploads%2F2007%2F09%2Fkalligraphie1.jpg&f=1",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "imageId": "18a",
+                            "imageUrl": "https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.hannaxel.de%2Fwp-content%2Fuploads%2F2007%2F09%2Fkalligraphie1.jpg&f=1",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        }
+                    ]
+                }
+            ]
+        }
+        ]
+    },
+  "contactInfos": [
+    {
+      "companyName": "H. Krachts Erben AG",
+      "addresses": [
+        {
+          "streetNmbr": 1,
+          "addressLine": "Laurstrasse 6",
+          "cityName": "Brugg",
+          "postalCode": 5200,
+          "stateProv": "Aargau",
+          "countryName": "Schweiz"
+        }
+      ],
+      "phones": [
+        {
+          "phoneTechType": 1,
+          "countryAccessCode": 41,
+          "phoneNumber": 620005020
+        }
+      ],
+      "emails": [
+        {
+          "email": "info@hotelnowifi2.ch"
+        }
+      ]
+    }
+  ],
+  "policies": {
+    "policyInfo": {
+    "minChildAge": 2,
+    "maxChildAge": 12
+  }
+}
+}

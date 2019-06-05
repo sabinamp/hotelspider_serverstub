@@ -1,0 +1,224 @@
+{
+    "hotelId": "00U5846e0f2ukulm",
+    "hotelName": "Uto Kulm",
+    "areaUnitOfMeasureCode": 14,
+    "distanceUnitOfMeasureCode": 2,
+    "timeZone": "Europe/Zurich",
+    "weightUnitOfMeasureCode": 16,
+    "currencyCode": "CHF",
+    "hotelInfo": {
+        "whenBuilt": "1983-01-01" ,
+        "position": {
+            "altitude": 871,
+            "latitude": 47.349647,
+            "longitude": 8.491144
+        },
+        "descriptions": {
+            "multimediadescriptions": [
+                {
+                    "images": [
+                        {
+                            "sort": 1,
+                            "imageId": "00U55toj8eh46e1a",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1024x768/183/183990320.jpg",
+                            "imageWidth": 1280,
+                            "imageHeight": 854,
+                            "dimensionCategory": "Desktop"
+                        },
+                        {
+                            "sort": 2,
+                            "imageId": "00U55toj8th46e2a",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1280x900/258/25879195.jpg",
+                            "imageWidth": 1201,
+                            "imageHeight": 900,
+                            "dimensionCategory": "Desktop"
+                        },
+                        {
+                            "sort": 3,
+                            "imageId": "00U55toj8th46e3a",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1280x900/180/180039637.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                          "sort": 4,
+                          "imageId": "00U55toj8eh46e1b",
+                          "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1280x900/180/180039643.jpg",
+                          "imageWidth": 350,
+                          "imageHeight": 233,
+                          "dimensionCategory": "Mobile"
+                        },
+ 						{
+                        "sort": 5,
+                        "imageId": "00U55toj8eh46e1c",
+                        "imageUrl": "img/hotelutokulm-innen-1.jpg",
+                        "imageWidth": 350,
+                        "imageHeight": 233,
+                        "dimensionCategory": "Mobile"
+                      }
+                    ],
+                    "texts": [
+                            {
+                                "detailsCode": 2,
+                                "text": "hotel description"
+                            },
+                            {
+                                "detailsCode": 71,
+                                "text": "This is the restaurant description"
+                            }
+                    ]
+                }
+            ]
+        },
+        "services": [
+                {
+                    "code": 5,
+                    "codeDetails": "Air conditioning"
+                },
+                {
+                    "code": 54,
+                    "codeDetails": "Indoor pool"
+                }
+        ]
+    },
+    "affiliationInfo": {
+        "awards": [
+            {
+                "provider": "HotelAssociation",
+                "rating": 4
+            },
+            {
+                "provider": "Hotels.com",
+                "rating": 8.8
+            },
+            {
+                "provider": "Google",
+                "rating": 4.6
+            }
+        ]
+    },
+    "facilityInfo": {
+        "guestRooms": [
+            {
+                "id": "00U5846e022f2dprws1",
+                "roomTypeName": "Double Panorama Room with Scenery",
+                "minOccupancy": 1,
+                "maxOccupancy": 3,
+                "maxChildOccupancy": 1,
+                "maxAdultOccupancy": 2,
+                "typeRoom": {
+                    "standardOccupancy": 2,
+                    "standardNumBeds": 1,
+                    "maxCribs": 1,
+                    "maxRollaways": 1,
+                    "composite": false,
+                    "quantity": 26
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 2,
+                        "codeDetail": "Air conditioning"
+                    },
+                    {
+                        "roomAmenityCode": 53,
+                        "codeDetail": "Indoor parking"
+                    },
+                    {
+                        "roomAmenityCode": 76,
+                        "codeDetail": "Restaurant"
+                    }
+                ],
+                "multimediaDescriptions": [{
+                    "images": [
+                        {
+                          "sort": 1,
+                          "imageId": "00U55toj8eh46e1b",
+                          "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1024x768/291/29146033.jpg",
+                          "imageWidth": 350,
+                          "imageHeight": 150,
+                          "dimensionCategory": "Mobile"
+                        },
+                        {
+                          "sort": 1,
+                          "imageId": "00U55toj8eh46e2b",
+                          "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1024x768/768/76802223.jpg",
+                          "imageWidth": 1024,
+                          "imageHeight": 681,
+                          "dimensionCategory": "Mobile"
+                        }
+                    ]
+                }]
+            },
+            {
+                "id": "00U5846e022f2rs1",
+                "roomTypeName": "Romantic Suite",
+                "minOccupancy": 1,
+                "maxOccupancy": 3,
+                "maxChildOccupancy": 1,
+                "maxAdultOccupancy": 2,
+                "typeRoom": {
+                    "standardOccupancy": 2,
+                    "standardNumBeds": 1,
+                    "maxCribs": 0,
+                    "maxRollaways": 1,
+                    "composite": false,
+                    "quantity": 14
+                },
+                "multimediaDescriptions": [{
+                    "images": [
+                      {
+                        "sort": 1,
+                        "imageId": "00U55toj8eh46e1c",
+                        "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1024x768/103/103971413.jpg",
+                        "imageWidth": 350,
+                        "imageHeight": 233,
+                        "dimensionCategory": "Mobile"
+                      },
+                      {
+                        "sort": 1,
+                        "imageId": "00U55toj8eh46e2c",
+                        "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1024x768/768/76802432.jpg",
+                        "imageWidth": 350,
+                        "imageHeight": 233,
+                        "dimensionCategory": "Mobile"
+                      }
+                    ]
+                }]
+            }
+        ]
+    },
+    "contactInfos": [
+        {
+            "companyName": "Uto Kulm AG",
+            "addresses": [
+                {
+                    "streetNmbr": "",
+                    "addressLine": "Uto Kulm",
+                    "cityName": "Uetliberg",
+                    "postalCode": "8143",
+                    "stateProv": "Zuerich",
+                    "countryName": "Schweiz"
+                }
+            ],
+            "phones": [
+                {
+                    "phoneTechType": 1,
+                    "countryAccessCode": 41,
+                    "phoneNumber": "444576666"
+                }
+            ],
+            "emails": [
+                {
+                    "email": "info@utokulm.ch"
+                }
+            ]
+        }
+    ],
+    "policies": {
+        "policyInfo": {
+            "minChildAge": 2,
+            "maxChildAge": 12
+        }
+    }
+}

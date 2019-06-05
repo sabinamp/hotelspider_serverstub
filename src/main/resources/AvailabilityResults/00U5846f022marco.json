@@ -1,0 +1,28 @@
+[
+  {
+    "guestroomId": "string",
+    "products": [
+        {
+        "rateplanId": "00U5846f022marco-Junior Suite",
+        "totalPrice": 227,
+        "discount": 10,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 26,
+        "limitedOffer": true,
+        "popularity": 70
+      },
+      
+      {
+        "rateplanId": "00U5846f022marco-Single",
+        "totalPrice": 200,
+        "discount": 10,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 15,
+        "limitedOffer": true,
+        "popularity": 70
+      }
+    ]
+  }
+]

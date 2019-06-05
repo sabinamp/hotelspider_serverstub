@@ -1,0 +1,28 @@
+[
+  {
+    "guestroomId": "string",
+    "products": [
+        {
+        "rateplanId": "00U5845f022gbrugg-Junior Suite",
+        "totalPrice": 257,
+        "discount": 10,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 26,
+        "limitedOffer": true,
+        "popularity": 70
+      },
+     
+      {
+        "rateplanId": "00U5845f022gbrugg-Single",
+        "totalPrice": 190,
+        "discount": 10,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 15,
+        "limitedOffer": true,
+        "popularity": 70
+      }
+    ]
+  }
+]

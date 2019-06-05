@@ -1,0 +1,27 @@
+[
+  {
+    "guestroomId": "string",
+    "products": [
+        {
+        "rateplanId": "00U5847f022marri-Double Deluxe",
+        "totalPrice": 319,
+        "discount": 15,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 14,
+        "limitedOffer": true,
+        "popularity": 64
+      },
+      {
+        "rateplanId": "00U5847f022marri-Suite Panorama",
+        "totalPrice": 366,
+        "discount": 15,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 26,
+        "limitedOffer": true,
+        "popularity": 64
+      }
+    ]
+  }
+]

@@ -1,0 +1,240 @@
+{
+    "hotelId": "00G5846t022gotth",
+    "hotelName": "Hotel Gotthard",
+    "areaUnitOfMeasureCode": 14,
+    "distanceUnitOfMeasureCode": 2,
+    "timeZone": "Europe/Zurich",
+    "weightUnitOfMeasureCode": 16,
+    "currencyCode": "CHF",
+    "hotelInfo": {
+        "whenBuilt": "2001-01-01" ,
+        "position": {
+            "altitude": 352,
+            "latitude": 47.480866,
+            "longitude": 8.207631
+        },
+        "descriptions": {
+            "multimediadescriptions": [
+                {
+                    "images": [
+                        {
+                            "sort": 1,
+                            "imageId": "00G55eej8eh46e5r",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1280x900/158/158232495.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "sort": 2,
+                            "imageId": "00G55aej8th46e5d",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1280x900/159/159449153.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+                                                {
+                            "sort": 3,
+                            "imageId": "00G55aej8th46e5d",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1280x900/159/159449038.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+
+                                                {
+                            "sort": 4,
+                            "imageId": "00G55aej8th46e5e",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1280x900/158/158277483.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        }
+                    ],
+                    "texts": [
+                            {
+                                "detailsCode": 2,
+                                "text": "Das Hotel Gotthard in Brugg bietet eine Terrasse. Neben einem Geldautomaten bietet diese Unterkunft auch ein Restaurant. Sowohl Privatparkplätze als auch kostenfreies WLAN sind im Hotel verfügbar. Im Hotel Gotthard können Sie Aktivitäten wie Radfahren nachgehen. Zürich liegt 35 km von der Unterkunft entfernt. Zum Flughafen Zürich gelangen Sie von der Unterkunft aus nach 37 km. Laut Bewertungen bietet diese Unterkunft das beste Preis-Leistungs-Verhältnis in Brugg. Im Vergleich zu anderen Unterkünften in dieser Stadt bekommen Gäste hier mehr für ihr Geld."
+                            },
+                            {
+                                "detailsCode": 71,
+                                "text": "This is the restaurant description"
+                            }
+                    ]
+                }
+            ]
+        },
+        "services": [
+                {
+                    "code": 5,
+                    "codeDetails": "Air conditioning"
+                },
+                {
+                    "code": 54,
+                    "codeDetails": "Indoor pool"
+                },
+             {
+                    "code": 343,
+                    "codeDetails": "WLAN"
+                },
+            {
+                    "code": 173,
+                    "codeDetails": "Breakfast"
+                }
+        ]
+    },
+    "affiliationInfo": {
+        "awards": [
+            {
+                "provider": "HotelAssociation",
+                "rating": 4
+            },
+            {
+                "provider": "TripAdvisor",
+                "rating": 4
+            }
+        ]
+    },
+    "facilityInfo": {
+        "guestRooms": [
+            {
+                "id": "00U5846d022f2911",
+                "roomTypeName": "Junior Suite",
+                "minOccupancy": 1,
+                "maxOccupancy": 3,
+                "maxChildOccupancy": 1,
+                "maxAdultOccupancy": 2,
+                "typeRoom": {
+                    "standardOccupancy": 1,
+                    "standardNumBeds": 1,
+                    "maxCribs": 1,
+                    "maxRollaways": 0,
+                    "composite": false,
+                    "quantity": 26
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 2,
+                        "codeDetail": "Air conditioning"
+                    },
+                    {
+                        "roomAmenityCode": 53,
+                        "codeDetail": "Indoor parking"
+                    },
+                    {
+                        "roomAmenityCode": 76,
+                        "codeDetail": "Restaurant"
+                    }
+                ],
+                "multimediaDescriptions": [{
+                    "images": [
+                        {
+                            "imageId": "00U5846e022f2915",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1024x768/158/158270702.jpg",
+                            "imageWidth": 350,
+              "imageHeight": 150,
+              "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "imageId": "00U5846e022e4567",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1024x768/158/158086753.jpg",
+                            "imageWidth": 720,
+                            "imageHeight": 480,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "imageId": "00U5846e022f2916",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1024x768/158/158608544.jpg",
+                            "imageWidth": 350,
+              "imageHeight": 150,
+              "dimensionCategory": "Mobile"
+                        }
+                    ]
+                }]
+            },
+            {
+                "id": "00U5846e022f2912",
+                "roomTypeName": "Double",
+                "minOccupancy": 1,
+                "maxOccupancy": 2,
+                "maxChildOccupancy": 1,
+                "maxAdultOccupancy": 2,
+                "typeRoom": {
+                    "standardOccupancy": 2,
+                    "standardNumBeds": 1,
+                    "maxCribs": 1,
+                    "maxRollaways": 2,
+                    "composite": false,
+                    "quantity": 14
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 2,
+                        "codeDetail": "Air conditioning"
+                    },
+                    {
+                        "roomAmenityCode": 53,
+                        "codeDetail": "Indoor parking"
+                    },
+                    {
+                        "roomAmenityCode": 76,
+                        "codeDetail": "Restaurant"
+                    }
+                ],
+                "multimediaDescriptions": [
+                    {
+                        "images": [
+                            {
+                                "imageId": "9a",
+                                "imageUrl": "https://s-ec.bstatic.com/images/hotel/max1024x768/158/158270774.jpg",
+                                "imageWidth": 350,
+              "imageHeight": 150,
+              "dimensionCategory": "Mobile"
+                            },
+                            {
+                                "imageId": "10a",
+                                "imageUrl": "https://s-ec.bstatic.com/images/hotel/max1024x768/158/158608299.jpg",
+                                "imageWidth": 350,
+              "imageHeight": 150,
+              "dimensionCategory": "Mobile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "contactInfos": [
+        {
+            "companyName": "Hotel Gotthard",
+            "addresses": [
+                {
+                    "streetNmbr": "2",
+                    "addressLine": "Aarauerstr.",
+                    "cityName": "Brugg",
+                    "postalCode": "5200",
+                    "stateProv": "Aargau",
+                    "countryName": "Schweiz"
+                }
+            ],
+            "phones": [
+                {
+                    "phoneTechType": 1,
+                    "countryAccessCode": 41,
+                    "phoneNumber": "0564411794"
+                }
+            ],
+            "emails": [
+                {
+                    "email": "kontakt@hotelgotthard.ch"
+                }
+            ]
+        }
+    ],
+    "policies": {
+        "policyInfo": {
+            "minChildAge": 2,
+            "maxChildAge": 12
+        }
+    }
+}

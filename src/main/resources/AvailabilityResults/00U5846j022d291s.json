@@ -1,0 +1,27 @@
+[
+  {
+    "guestroomId": "string",
+    "products": [
+     {
+        "rateplanId": "00U5846j022d291s-Junior Suite",
+        "totalPrice": 315,
+        "discount": 10,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 26,
+        "limitedOffer": true,
+        "popularity": 70
+      },     
+      {
+        "rateplanId": "00U5846j022d291s-Double Deluxe",
+        "totalPrice": 337,
+        "discount": 5,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 15,
+        "limitedOffer": true,
+        "popularity": 70
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "guestroomId": "string",
+    "products": [
+        {
+        "rateplanId": "00G5846t022easyh-Twin with window",
+        "totalPrice": 207,
+        "discount": 15,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 14,
+        "limitedOffer": true,
+        "popularity": 64
+      },
+       {
+        "rateplanId": "00G5846t022easyh-Small double with window",
+        "totalPrice": 134,
+        "discount": 15,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 14,
+        "limitedOffer": true,
+        "popularity": 64
+      },
+      {
+        "rateplanId": "00G5846t022easyh-Double with window",
+        "totalPrice": 326,
+        "discount": 15,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 26,
+        "limitedOffer": true,
+        "popularity": 64
+      },
+      {
+        "rateplanId": "00G5846t022easyh-Small double without window",
+        "totalPrice": 100,
+        "discount": 15,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 26,
+        "limitedOffer": true,
+        "popularity": 64
+      }
+    ]
+  }
+]

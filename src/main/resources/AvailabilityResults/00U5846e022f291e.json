@@ -1,0 +1,38 @@
+[
+  {
+    "guestroomId": "string",
+    "products": [
+      {
+        "rateplanId": "01W5X_singleAdult_inDouble",
+        "totalPrice": 259,
+        "discount": 10,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 15,
+        "limitedOffer": true,
+        "popularity": 64
+      },
+            {
+        "rateplanId": "01x5X_singleAdult_inDouble",
+        "totalPrice": 256,
+        "discount": 10,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 15,
+        "limitedOffer": true,
+        "popularity": 64
+      },
+            {
+        "rateplanId": "01W5X_singleAdult_inSuite",
+        "totalPrice": 296,
+        "discount": 10,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 15,
+        "limitedOffer": true,
+        "popularity": 64
+      
+      }
+    ]
+  }
+]

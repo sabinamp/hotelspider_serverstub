@@ -1,0 +1,28 @@
+[
+  {
+    "guestroomId": "string",
+    "products": [
+      {
+        "rateplanId": "00U5845j020s210l-Alpine Suite",
+        "totalPrice": 318,
+        "discount": 10,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 35,
+        "limitedOffer": false,
+        "popularity": 64
+      },
+     
+       {
+        "rateplanId": "00U5845j020s210l-Comfort Double Room",
+        "totalPrice": 223,
+        "discount": 15,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 16,
+        "limitedOffer": true,
+        "popularity": 64
+      }
+    ]
+  }
+]

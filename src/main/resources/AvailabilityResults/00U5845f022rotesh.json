@@ -1,0 +1,28 @@
+[
+  {
+    "guestroomId": "string",
+    "products": [
+      {
+        "rateplanId": "00U5845f022rotesh-Single",
+        "totalPrice": 195,
+        "discount": 15,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 36,
+        "limitedOffer": true,
+        "popularity": 74
+      },       
+
+      {
+        "rateplanId": "00U5845f022rotesh-Double",
+        "totalPrice": 306,
+        "discount": 15,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 14,
+        "limitedOffer": true,
+        "popularity": 74
+      }
+    ]
+  }
+]

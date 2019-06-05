@@ -1,0 +1,236 @@
+{
+    "hotelId": "00B5846t02termin",
+    "hotelName": "Hotel Terminus",
+    "areaUnitOfMeasureCode": 14,
+    "distanceUnitOfMeasureCode": 2,
+    "timeZone": "Europe/Zurich",
+    "weightUnitOfMeasureCode": 16,
+    "currencyCode": "CHF",
+    "hotelInfo": {
+        "whenBuilt": "1853-09-01" ,
+        "position": {
+            "altitude": 408,
+            "latitude": 47.480889,
+            "longitude": 8.208165
+        },
+        "descriptions": {
+            "multimediadescriptions": [
+                {
+                    "images": [
+                        {
+                            "sort": 1,
+                            "imageId": "00B55eej8eh46e5r",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1024x768/116/116871143.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "sort": 2,
+                            "imageId": "00B55aej8th46e5d",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1280x900/116/116872186.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+                                                {
+                            "sort": 3,
+                            "imageId": "00B55aej8th46e5d",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1280x900/116/116875208.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+
+                                                {
+                            "sort": 4,
+                            "imageId": "00B55aej8th46e5e",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1280x900/116/116871506.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        }
+                    ],
+                    "texts": [
+                            {
+                                "detailsCode": 2,
+                                "text": "Das Hotel Terminus Brugg in Brugg bietet Unterkuenfte mit eigenem Balkon. Alle Zimmer verfuegen ueber einen Flachbild-Kabel-TV und ein eigenes Bad. Die Privatparkplaetze und WLAN nutzen Sie in dieser Unterkunft kostenfrei. Alle Zimmer im Hotel sind mit einem Schreibtisch ausgestattet. Zuerich liegt 35 km vom Hotel Terminus Brugg entfernt. Der naechste Flughafen ist der 37 km von der Unterkunft entfernte Flughafen Zuerich.Die Lage in dieser Unterkunft ist auch eine der besten in Brugg!"
+                            },
+                            {
+                                "detailsCode": 71,
+                                "text": "This is the restaurant description"
+                            }
+                    ]
+                }
+            ]
+        },
+        "services": [
+                {
+                    "code": 5,
+                    "codeDetails": "Air conditioning"
+                },
+                {
+                    "code": 54,
+                    "codeDetails": "Indoor pool"
+                },
+             {
+                    "code": 343,
+                    "codeDetails": "WLAN"
+                },
+            {
+                    "code": 173,
+                    "codeDetails": "Breakfast"
+                }
+        ]
+    },
+    "affiliationInfo": {
+        "awards": [
+            {
+                "provider": "HotelAssociation",
+                "rating": 3
+            },
+            {
+                "provider": "TripAdvisor",
+                "rating": 8.2
+            }
+        ]
+    },
+    "facilityInfo": {
+        "guestRooms": [
+            {
+                "id": "00U5846d022f2911",
+                "roomTypeName": "Junior Suite",
+                "minOccupancy": 1,
+                "maxOccupancy": 3,
+                "maxChildOccupancy": 1,
+                "maxAdultOccupancy": 2,
+                "typeRoom": {
+                    "standardOccupancy": 2,
+                    "standardNumBeds": 1,
+                    "maxCribs": 1,
+                    "maxRollaways": 1,
+                    "composite": false,
+                    "quantity": 26
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 2,
+                        "codeDetail": "Air conditioning"
+                    },
+                    {
+                        "roomAmenityCode": 53,
+                        "codeDetail": "Indoor parking"
+                    },
+                    {
+                        "roomAmenityCode": 76,
+                        "codeDetail": "Restaurant"
+                    }
+                ],
+                "multimediaDescriptions": [{
+                    "images": [
+                        {
+                            "imageId": "00U5846e022f2915",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1024x768/116/116875740.jpg",
+                            "imageWidth": 1920,
+                            "imageHeight": 1080,
+                            "dimensionCategory": "Desktop"
+                        },
+                        {
+                            "imageId": "00U5846e022e4567",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1024x768/116/116874262.jpg",
+                            "imageWidth": 720,
+                            "imageHeight": 480,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "imageId": "00U5846e022f2916",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1024x768/116/116759729.jpg",
+                            "imageWidth": 1920,
+                            "imageHeight": 1080,
+                            "dimensionCategory": "Desktop"
+                        }
+                    ]
+                }]
+            },
+            {
+                "id": "00U5846e022f2912",
+                "roomTypeName": "Superior Single",
+                "minOccupancy": 1,
+                "maxOccupancy": 1,
+                "maxChildOccupancy": 0,
+                "maxAdultOccupancy": 1,
+                "typeRoom": {
+                    "standardOccupancy": 2,
+                    "standardNumBeds": 1,
+                    "maxCribs": 1,
+                    "maxRollaways": 2,
+                    "composite": false,
+                    "quantity": 14
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 2,
+                        "codeDetail": "Air conditioning"
+                    },
+                    {
+                        "roomAmenityCode": 92,
+                        "codeDetail": "Safe"
+                    }
+                ],
+                "multimediaDescriptions": [
+                    {
+                        "images": [
+                            {
+                                "imageId": "19a",
+                                "imageUrl": "https://s-ec.bstatic.com/images/hotel/max1024x768/116/116875740.jpg",
+                                "imageWidth": 350,
+                                "imageHeight": 150,
+                                "dimensionCategory": "Mobile"
+                            },
+                            {
+                                "imageId": "20a",
+                                "imageUrl": "https://t-ec.bstatic.com/images/hotel/max1024x768/116/116874407.jpg",
+                                "imageWidth": 350,
+                                "imageHeight": 150,
+                                "dimensionCategory": "Mobile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "contactInfos": [
+        {
+            "companyName": "Hotel Terminus",
+            "addresses": [
+                {
+                    "streetNmbr": "5",
+                    "addressLine": "Bahnhofplatz",
+                    "cityName": "Brugg",
+                    "postalCode": "5200",
+                    "stateProv": "Aargau",
+                    "countryName": "Schweiz"
+                }
+            ],
+            "phones": [
+                {
+                    "phoneTechType": 1,
+                    "countryAccessCode": 41,
+                    "phoneNumber": "0564602525"
+                }
+            ],
+            "emails": [
+                {
+                    "email": "info@terminus-brugg.ch"
+                }
+            ]
+        }
+    ],
+    "policies": {
+        "policyInfo": {
+            "minChildAge": 2,
+            "maxChildAge": 12
+        }
+    }
+}

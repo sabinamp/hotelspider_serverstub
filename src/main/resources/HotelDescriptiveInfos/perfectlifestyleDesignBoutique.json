@@ -1,0 +1,218 @@
+{
+    "hotelId": "00U5556f030plb91",
+    "hotelName": "perfect lifestyle Design Boutique",
+    "areaUnitOfMeasureCode": 14,
+    "distanceUnitOfMeasureCode": 2,
+    "timeZone": "Europe/Zurich",
+    "weightUnitOfMeasureCode": 16,
+    "currencyCode": "CHF",
+    "hotelInfo": {
+        "whenBuilt": "1803-09-01" ,
+        "position": {
+            "altitude": 408,
+            "latitude": 47.480177,
+            "longitude": 8.247090
+        },
+        "descriptions": {
+            "multimediadescriptions": [
+                {
+                    "images": [
+                        {
+                            "sort": 1,
+                            "imageId": "hh7kr0DryK4sJh0Udb6OaR6sMP0",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1280x900/186/186022330.jpg",
+                            "imageWidth": 375,
+                            "imageHeight": 250,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "sort": 2,
+                            "imageId": "9LBNd-XIT1ROjfML9ohNTEBHYAg",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1280x900/171/171073807.jpg",
+                            "imageWidth": 375,
+                            "imageHeight": 250,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "sort": 3,
+                            "imageId": "_tGq4gv_6ECh_JXSnvqCVDD3-ww",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1280x900/171/171073949.jpg",
+                            "imageWidth": 375,
+                            "imageHeight": 250,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "sort": 4,
+                            "imageId": "wn76b7i-zqMieIEspDVoDlmDqIo",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1280x900/171/171077718.jpg",
+                            "imageWidth": 375,
+                            "imageHeight": 250,
+                            "dimensionCategory": "Mobile"
+                        }
+                    ],
+                    "texts": [
+                            {
+                                "detailsCode": 2,
+                                "text": "Dieses B&B verfuegt ueber einen Wellnessbereich, perfect lifestyle lounge. Entspannung und Erholung sind Ihnen hier sicher! Zu den Services gehoert Folgendes: Massagen."
+                            },
+                            {
+                                "detailsCode": 71,
+                                "text": "Private dining - ein Diner mit Blick auf den Garten. Angeboten werden Fruehstueck, Brunch, Mittagessen und Abendessen. Sie koennen sich Ihre Drinks an der Bar bestellen und Ihr Essen im Freien geniessen (witterungsabhaengig). Reservierungen sind erforderlich. "
+                            }
+                    ]
+                }
+            ]
+        },
+        "services": [
+                {
+                    "code": 173,
+                    "codeDetails": "Breakfast"
+                },
+                {
+                    "code": 343,
+                    "codeDetails": "WLAN"
+                }
+        ]
+    },
+    "affiliationInfo": {
+        "awards": [
+            {
+                "provider": "HotelAssociation",
+                "rating": 3.5
+            },
+                        {
+                "provider": "TripAdvisor",
+                "rating": 8.8
+            }
+        ]
+    },
+    "facilityInfo": {
+        "guestRooms": [
+            {
+                "id": "00U5846d155f2912",
+                "roomTypeName": "Junior Suite, Balkon",
+                "minOccupancy": 1,
+                "maxOccupancy": 3,
+                "maxChildOccupancy": 1,
+                "maxAdultOccupancy": 2,
+                "typeRoom": {
+                    "standardOccupancy": 1,
+                    "standardNumBeds": 1,
+                    "maxCribs": 1,
+                    "maxRollaways": 0,
+                    "composite": false,
+                    "quantity": 20
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 53,
+                        "codeDetail": "Indoor parking"
+                    },
+                    {
+                        "roomAmenityCode": 76,
+                        "codeDetail": "Restaurant"
+                    }
+                ],
+                "multimediaDescriptions": [{
+                    "images": [
+                        {
+                            "imageId": "00U5846e022f2915",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1024x768/182/182328500.jpg",
+                            "imageWidth": 1920,
+                            "imageHeight": 1080,
+                            "dimensionCategory": "Desktop"
+                        },
+                        {
+                            "imageId": "00U5846e022e4567",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1024x768/176/176959275.jpg",
+                            "imageWidth": 720,
+                            "imageHeight": 480,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "imageId": "00U5846e022f2916",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1024x768/171/171059779.jpg",
+                            "imageWidth": 1920,
+                            "imageHeight": 1080,
+                            "dimensionCategory": "Desktop"
+                        }
+                    ]
+                }]
+            },
+            {
+                "id": "00U5846e022f2912",
+                "roomTypeName": "Double deluxe",
+                "minOccupancy": 1,
+                "maxOccupancy": 4,
+                "maxChildOccupancy": 2,
+                "maxAdultOccupancy": 2,
+                "typeRoom": {
+                    "standardOccupancy": 2,
+                    "standardNumBeds": 1,
+                    "maxCribs": 1,
+                    "maxRollaways": 1,
+                    "composite": false,
+                    "quantity": 14
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 53,
+                        "codeDetail": "Indoor parking"
+                    },
+                    {
+                        "roomAmenityCode": 92,
+                        "codeDetail": "Safe"
+                    }
+                ],
+                "multimediaDescriptions": [
+                    {
+                        "images": [
+                            {
+                                "imageId": "76a",
+                                "imageUrl": "https://t-ec.bstatic.com/images/hotel/max1024x768/171/171917352.jpg",
+                                "imageWidth": 350,
+                                "imageHeight": 150,
+                                "dimensionCategory": "Mobile"
+                            },
+                            {
+                                "imageId": "98a",
+                                "imageUrl": "https://t-ec.bstatic.com/images/hotel/max1024x768/171/171059789.jpg",
+                                "imageWidth": 350,
+                                "imageHeight": 150,
+                                "dimensionCategory": "Mobile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "contactInfos": [
+        {
+            "companyName": "perfect lifestyle Design Boutique",
+            "addresses": [
+                {
+                    "streetNmbr": "31",
+                    "addressLine": "Sandrain",
+                    "cityName": "Gebenstorf",
+                    "postalCode": "5412",
+                    "stateProv": "Aargau",
+                    "countryName": "Schweiz"
+                }
+            ],
+            "phones": [
+                {
+                    "phoneTechType": 1,
+                    "countryAccessCode": 41,
+                    "phoneNumber": "0762102279"
+                }
+            ]
+        }
+    ],
+    "policies": {
+        "policyInfo": {
+            "minChildAge": 2,
+            "maxChildAge": 12
+        }
+    }
+}

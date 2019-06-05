@@ -1,0 +1,220 @@
+{
+    "hotelId": "00U5846f022marco",
+    "hotelName": "Marco Polo Business Apartments",
+    "areaUnitOfMeasureCode": 14,
+    "distanceUnitOfMeasureCode": 2,
+    "timeZone": "Europe/Zurich",
+    "weightUnitOfMeasureCode": 16,
+    "currencyCode": "CHF",
+    "hotelInfo": {
+        "whenBuilt": "1853-09-01" ,
+        "position": {
+            "altitude": 352,
+            "latitude": 47.485581,
+            "longitude": 8.208088
+        },
+        "descriptions": {
+            "multimediadescriptions": [
+                {
+                    "images": [
+                        {
+                            "sort": 1,
+                            "imageId": "00L55eej8el46e5r",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1280x900/172/172071071.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "sort": 2,
+                            "imageId": "00L55aej8th44e5d",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1280x900/183/183484341.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+                                                {
+                            "sort": 3,
+                            "imageId": "00L55aej8t556e5d",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1280x900/183/183484258.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        }
+                    ],
+                    "texts": [
+                            {
+                                "detailsCode": 2,
+                                "text": "Wir, die Marco Polo Business Apartments AG, betreiben ein regionales Business Apartment Portfolio, welches sich an allen Standorten durch einen überdurchschnittlichen Komfort und ein aussergewöhnliches Ambiente auszeichnet."
+                            },
+                            {
+                                "detailsCode": 71,
+                                "text": "Your home away from home!"
+                            }
+                    ]
+                }
+            ]
+        },
+        "services": [
+                {
+                    "code": 173,
+                    "codeDetails": "Breakfast"
+                },
+                {
+                    "code": 343,
+                    "codeDetails": "WLAN"
+                }
+
+        ]
+    },
+    "affiliationInfo": {
+        "awards": [
+            {
+                "provider": "HotelAssociation",
+                "rating": 4
+            },
+            {
+                "provider": "TripAdvisor",
+                "rating": 10.0
+            }
+        ]
+    },
+    "facilityInfo": {
+        "guestRooms": [
+            {
+                "id": "00U5846d022f2911",
+                "roomTypeName": "Junior Suite",
+                "minOccupancy": 1,
+                "maxOccupancy": 3,
+                "maxChildOccupancy": 1,
+                "maxAdultOccupancy": 2,
+                "typeRoom": {
+                    "standardOccupancy": 1,
+                    "standardNumBeds": 1,
+                    "maxCribs": 1,
+                    "maxRollaways": 1,
+                    "composite": false,
+                    "quantity": 26
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 2,
+                        "codeDetail": "Air conditioning"
+                    },
+                    {
+                        "roomAmenityCode": 53,
+                        "codeDetail": "Indoor parking"
+                    },
+                    {
+                        "roomAmenityCode": 76,
+                        "codeDetail": "Restaurant"
+                    }
+                ],
+                "multimediaDescriptions": [{
+                    "images": [
+                        {
+                            "imageId": "00U5846e022f2915",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1024x768/181/181053584.jpg",
+                            "imageWidth": 1920,
+                            "imageHeight": 1080,
+                            "dimensionCategory": "Desktop"
+                        },
+                        {
+                            "imageId": "00U5846e022e4567",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1024x768/181/181053564.jpg",
+                            "imageWidth": 720,
+                            "imageHeight": 480,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "imageId": "00U5846e022f2916",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1024x768/181/181053598.jpg",
+                            "imageWidth": 1920,
+                            "imageHeight": 1080,
+                            "dimensionCategory": "Desktop"
+                        }
+                    ]
+                }]
+            },
+            {
+                "id": "00U5846e022f2912",
+                "roomTypeName": "Single",
+                "minOccupancy": 1,
+                "maxOccupancy": 1,
+                "maxChildOccupancy": 1,
+                "maxAdultOccupancy": 1,
+                "typeRoom": {
+                    "standardOccupancy": 2,
+                    "standardNumBeds": 1,
+                    "maxCribs": 1,
+                    "maxRollaways": 0,
+                    "composite": false,
+                    "quantity": 14
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 2,
+                        "codeDetail": "Air conditioning"
+                    },
+                    {
+                        "roomAmenityCode": 92,
+                        "codeDetail": "Safe"
+                    }
+                ],
+                "multimediaDescriptions": [
+                    {
+                        "images": [
+                            {
+                                "imageId": "46a",
+                                "imageUrl": "https://t-ec.bstatic.com/images/hotel/max1024x768/181/181053591.jpg",
+                                "imageWidth": 350,
+                                "imageHeight": 150,
+                                "dimensionCategory": "Mobile"
+                            },
+                            {
+                                "imageId": "33a",
+                                "imageUrl": "https://s-ec.bstatic.com/images/hotel/max1024x768/183/183519988.jpg",
+                                "imageWidth": 350,
+                                "imageHeight": 150,
+                                "dimensionCategory": "Mobile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "contactInfos": [
+        {
+            "companyName": "Marco Polo Business Apartments",
+            "addresses": [
+                {
+                    "streetNmbr": "16",
+                    "addressLine": "Albulagasse",
+                    "cityName": "Brugg",
+                    "postalCode": "5200",
+                    "stateProv": "Aargau",
+                    "countryName": "Schweiz"
+                }
+            ],
+            "phones": [
+                {
+                    "phoneTechType": 1,
+                    "countryAccessCode": 41,
+                    "phoneNumber": "0566185656"
+                }
+            ],
+            "emails": [
+                {
+                    "email": "info@marcopoloapartments.ch"
+                }
+            ]
+        }
+    ],
+    "policies": {
+        "policyInfo": {
+            "minChildAge": 2,
+            "maxChildAge": 12
+        }
+    }
+}

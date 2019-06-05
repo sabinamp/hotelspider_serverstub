@@ -1,0 +1,27 @@
+[
+  {
+    "guestroomId": "string",
+    "products": [
+        {
+        "rateplanId": "00F5846A02nowifi2-City Suite",
+        "totalPrice": 105,
+        "discount": 15,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 12,
+        "limitedOffer": true,
+        "popularity": 64
+      },
+      {
+        "rateplanId": "00F5846A02nowifi2-Comfort Double Room",
+        "totalPrice": 140,
+        "discount": 15,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 12,
+        "limitedOffer": true,
+        "popularity": 64
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "guestroomId": "string",
+    "products": [
+       {
+        "rateplanId": "00I5846a022h291r-Junior Suite",
+        "totalPrice": 255,
+        "discount": 15,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 14,
+        "limitedOffer": true,
+        "popularity": 64
+      },
+       
+      {
+        "rateplanId": "00I5846a022h291r-Double",
+        "totalPrice": 365,
+        "discount": 15,
+        "currency": "CHF",
+        "isBar": false,
+        "availability": 26,
+        "limitedOffer": true,
+        "popularity": 64
+      }
+    ]
+  }
+]

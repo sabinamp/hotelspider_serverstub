@@ -1,0 +1,229 @@
+{
+    "hotelId": "00U5844f022rigib",
+    "hotelName": "Sorell Hotel Rigiblick",
+    "areaUnitOfMeasureCode": 14,
+    "distanceUnitOfMeasureCode": 2,
+    "timeZone": "Europe/Zurich",
+    "weightUnitOfMeasureCode": 16,
+    "currencyCode": "CHF",
+    "hotelInfo": {
+        "whenBuilt": "1853-09-01" ,
+        "position": {
+            "altitude": 596,
+            "latitude": 47.388256,
+            "longitude": 8.553537
+        },
+        "descriptions": {
+            "multimediadescriptions": [
+                {
+                    "images": [
+                        {
+                            "sort": 1,
+                            "imageId": "00L55eej8eh46e6r",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1280x900/539/53965083.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "sort": 2,
+                            "imageId": "00L55aej8th46e6d",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1280x900/188/188436163.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "sort": 3,
+                            "imageId": "00L55aej8th46e6d",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1280x900/106/106724060.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        }
+                    ],
+                    "texts": [
+                        {
+                            "detailsCode": 2,
+                            "text": "Das Aparthotel Rigiblick besticht durch seine einzigartige Aussicht ueber die Stadt"
+                        },
+                            {
+                                "detailsCode": 71,
+                                "text": "This is the restaurant description"
+                            }
+                    ]
+                }
+            ]
+        },
+        "services": [
+                {
+                    "code": 5,
+                    "codeDetails": "Air conditioning"
+                },
+                {
+                    "code": 54,
+                    "codeDetails": "Indoor pool"
+                },
+                {
+                    "code": 173,
+                    "codeDetails": "Breakfast"
+                },
+                {
+                    "code": 343,
+                    "codeDetails": "WLAN"
+                }
+        ]
+    },
+    "affiliationInfo": {
+        "awards": [
+            {
+                "provider": "HotelAssociation",
+                "rating": 4
+            },
+            {
+                "provider": "TripAdvisor",
+                "rating": 9.2
+            }
+        ]
+    },
+    "facilityInfo": {
+        "guestRooms": [
+            {
+                "id": "00U5846d022f2911",
+                "roomTypeName": "Junior Suite",
+                "minOccupancy": 1,
+                "maxOccupancy": 2,
+                "maxChildOccupancy": 1,
+                "maxAdultOccupancy": 2,
+                "typeRoom": {
+                    "standardOccupancy": 1,
+                    "standardNumBeds": 1,
+                    "maxCribs": 1,
+                    "maxRollaways": 1,
+                    "composite": false,
+                    "quantity": 26
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 2,
+                        "codeDetail": "Air conditioning"
+                    },
+                    {
+                        "roomAmenityCode": 53,
+                        "codeDetail": "Indoor parking"
+                    },
+                    {
+                        "roomAmenityCode": 76,
+                        "codeDetail": "Restaurant"
+                    }
+                ],
+                "multimediaDescriptions": [{
+                    "images": [
+                        {
+                            "imageId": "00U5846e022f2915",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1024x768/188/188436163.jpg",
+                            "imageWidth": 1920,
+                            "imageHeight": 1080,
+                            "dimensionCategory": "Desktop"
+                        },
+                        {
+                            "imageId": "00U5846e022e4567",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1024x768/429/42933089.jpg",
+                            "imageWidth": 720,
+                            "imageHeight": 480,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "imageId": "00U5846e022f2916",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1024x768/429/42933084.jpg",
+                            "imageWidth": 1920,
+                            "imageHeight": 1080,
+                            "dimensionCategory": "Desktop"
+                        }
+                    ]
+                }]
+            },
+            {
+                "id": "00U5846e022f2912",
+                "roomTypeName": "Deluxe Apartment",
+                "minOccupancy": 1,
+                "maxOccupancy": 4,
+                "maxChildOccupancy": 2,
+                "maxAdultOccupancy": 2,
+                "typeRoom": {
+                    "standardOccupancy": 2,
+                    "standardNumBeds": 1,
+                    "maxCribs": 1,
+                    "maxRollaways": 0,
+                    "composite": false,
+                    "quantity": 14
+                 },
+                 "amenities": [
+                        {
+                            "roomAmenityCode": 2,
+                            "codeDetail": "Air conditioning"
+                        },
+                        {
+                            "roomAmenityCode": 13,
+                            "codeDetail": "Bathtub"
+                        }
+             
+                    ],
+                    "multimediaDescriptions": [
+                        {
+                            "images": [
+                                {
+                                    "imageId": "1a",
+                                    "imageUrl": "https://t-ec.bstatic.com/images/hotel/max1024x768/104/10401148.jpg",
+                                    "imageWidth": 1024,
+                                    "imageHeight": 768,
+                                    "dimensionCategory": "Mobile"
+                                },
+                                {
+                                    "imageId": "2a",
+                                    "imageUrl": "https://t-ec.bstatic.com/images/hotel/max1024x768/539/53964880.jpg",
+                                    "imageWidth": 1024,
+                                    "imageHeight": 768,
+                                    "dimensionCategory": "Mobile"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            
+        ]
+    },
+    "contactInfos": [
+        {
+            "companyName": "Hotel Rigiblick",
+            "addresses": [
+                {
+                    "streetNmbr": "99",
+                    "addressLine": "Germaniastrasse",
+                    "cityName": "Zuerich",
+                    "postalCode": "8044",
+                    "stateProv": "Zuerich",
+                    "countryName": "Schweiz"
+                }
+            ],
+            "phones": [
+                {
+                    "phoneTechType": 1,
+                    "countryAccessCode": 41,
+                    "phoneNumber": "0432551570"
+                }
+            ],
+            "emails": [
+                {
+                    "email": "rigiblick@sorellhotels.com"
+                }
+            ]
+        }
+    ],
+    "policies": {
+        "policyInfo": {
+            "minChildAge": 2,
+            "maxChildAge": 12
+        }
+    }
+}

@@ -1,0 +1,220 @@
+{
+    "hotelId": "00U5845f022rotesh",
+    "hotelName": "Hotel ROTES HAUS",
+    "areaUnitOfMeasureCode": 14,
+    "distanceUnitOfMeasureCode": 2,
+    "timeZone": "Europe/Zurich",
+    "weightUnitOfMeasureCode": 16,
+    "currencyCode": "CHF",
+    "hotelInfo": {
+        "whenBuilt": "1854-09-01" ,
+        "position": {
+            "altitude": 352,
+            "latitude": 47.484363,
+            "longitude": 8.206767
+        },
+        "descriptions": {
+            "multimediadescriptions": [
+                {
+                    "images": [
+                        {
+                            "sort": 1,
+                            "imageId": "00L55eej8el46e54",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1280x900/449/44916424.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "sort": 2,
+                            "imageId": "00L55aej1th44e5d",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1280x900/449/44916414.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+                                                {
+                            "sort": 3,
+                            "imageId": "00L551e48t556e5d",
+                            "imageUrl": "https://r-ak.bstatic.com/images/hotel/max1280x900/102/10266018.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        }
+                    ],
+                    "texts": [
+                            {
+                                "detailsCode": 2,
+                                "text": "Herzlich willkommen im Brugger Stadthotel an bester Lage! Wir freuen uns, Sie als Gast bei uns zu empfangen."
+                            },
+                            {
+                                "detailsCode": 71,
+                                "text": "AUF DEN SPUREN DER ROEMER."
+                            }
+                    ]
+                }
+            ]
+        },
+        "services": [
+                {
+                  "code": 173,
+                  "codeDetails": "Breakfast"
+                },
+                {
+                  "code": 343,
+                  "codeDetails": "WLAN"
+                },
+                {
+                   "code": 76,
+                   "codeDetails": "Restaurant"
+                 }
+        ]
+    },
+    "affiliationInfo": {
+        "awards": [
+            {
+                "provider": "HotelAssociation",
+                "rating": 4
+            },
+            {
+                "provider": "TripAdvisor",
+                "rating": 9.0
+            }
+        ]
+    },
+    "facilityInfo": {
+        "guestRooms": [
+            {
+                "id": "00U5846d022f2911",
+                "roomTypeName": "Single",
+                "minOccupancy": 1,
+                "maxOccupancy": 2,
+                "maxChildOccupancy": 1,
+                "maxAdultOccupancy": 1,
+                "typeRoom": {
+                    "standardOccupancy": 1,
+                    "standardNumBeds": 1,
+                    "maxCribs": 1,
+                    "maxRollaways": 0,
+                    "composite": false,
+                    "quantity": 36
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 2,
+                        "codeDetail": "Air conditioning"
+                    },
+                    {
+                        "roomAmenityCode": 53,
+                        "codeDetail": "Indoor parking"
+                    }
+
+                ],
+                "multimediaDescriptions": [{
+                    "images": [
+                        {
+                            "imageId": "00U5846e022f2915",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1024x768/449/44916389.jpg",
+                            "imageWidth": 1920,
+                            "imageHeight": 1080,
+                            "dimensionCategory": "Desktop"
+                        },
+                        {
+                            "imageId": "00U5846e022e4567",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1024x768/449/44916383.jpg",
+                            "imageWidth": 720,
+                            "imageHeight": 480,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "imageId": "00U5846e022f2916",
+                            "imageUrl": "https://q-ak.bstatic.com/images/hotel/max1024x768/449/44916374.jpg",
+                            "imageWidth": 1920,
+                            "imageHeight": 1080,
+                            "dimensionCategory": "Desktop"
+                        }
+                    ]
+                }]
+            },
+                {
+                    "id": "00U5846e022f2912",
+                    "roomTypeName": "Double",
+                    "minOccupancy": 1,
+                    "maxOccupancy": 2,
+                    "maxChildOccupancy": 1,
+                    "maxAdultOccupancy": 2,
+                    "typeRoom": {
+                        "standardOccupancy": 2,
+                        "standardNumBeds": 1,
+                        "maxCribs": 1,
+                        "maxRollaways": 1,
+                        "composite": false,
+                        "quantity": 14
+                    },
+                    "amenities": [
+                        {
+                            "roomAmenityCode": 53,
+                            "codeDetail": "Indoor parking"
+                        },
+                        {
+                            "roomAmenityCode": 92,
+                            "codeDetail": "Safe"
+                        }
+                    ],
+                    "multimediaDescriptions": [
+                        {
+                            "images": [
+                                {
+                                    "imageId": "77a",
+                                    "imageUrl": "https://s-ec.bstatic.com/images/hotel/max1024x768/449/44916389.jpg",
+                                    "imageWidth": 350,
+                                    "imageHeight": 150,
+                                    "dimensionCategory": "Mobile"
+                                },
+                                {
+                                    "imageId": "99a",
+                                    "imageUrl": "https://t-ec.bstatic.com/images/hotel/max1024x768/449/44916377.jpg",
+                                    "imageWidth": 350,
+                                    "imageHeight": 150,
+                                    "dimensionCategory": "Mobile"
+                                }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+                "contactInfos": [
+                    {
+                        "companyName": "HOTEL ROTES HAUS",
+                        "addresses": [
+                            {
+                                "streetNmbr": "7",
+                                "addressLine": " Hauptstrasse",
+                                "cityName": "Brugg",
+                                "postalCode": "5200",
+                                "stateProv": "Aargau",
+                                "countryName": "Schweiz"
+                            }
+                        ],
+                        "phones": [
+                            {
+                                "phoneTechType": 1,
+                                "countryAccessCode": 41,
+                                "phoneNumber": "0564415444"
+                            }
+                        ],
+                        "emails": [
+                            {
+                                "email": "info@roteshausbrugg.ch"
+                            }
+                        ]
+                    }
+                ],
+                "policies": {
+                    "policyInfo": {
+                        "minChildAge": 2,
+                        "maxChildAge": 12
+                    }
+                }
+            }

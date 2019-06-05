@@ -1,0 +1,396 @@
+{
+    "hotelId": "00G5846t022easyh",
+    "hotelName": "Easyhotel Basel",
+    "areaUnitOfMeasureCode": 14,  
+    "distanceUnitOfMeasureCode": 2, 
+    "timeZone": "Europe/Zurich",
+    "weightUnitOfMeasureCode": 16,
+    "currencyCode": "CHF",
+    "hotelInfo": {
+        "whenBuilt": "2001-01-01" ,
+        "position": {
+            "altitude": 352,
+            "latitude": 47.566169,
+            "longitude": 7.597608
+        },
+        "descriptions": {
+            "multimediadescriptions": [
+                {
+                    "images": [
+                        {
+                            "sort": 1,
+                            "imageId": "e8fKFEs7eusykunY",
+                            "imageUrl": "https://thumbnails.trvl-media.com/e8fKFEs7eusykunY_jrHP-AuoCQ=/773x530/smart/filters:quality(60)/images.trvl-media.com/hotels/3000000/2880000/2877300/2877231/243161e2_z.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+                        {
+                            "sort": 2,
+                            "imageId": "9lyM3FeON",
+                            "imageUrl": "https://thumbnails.trvl-media.com/9lyM3FeON-QQzsqQ3sWLlvc5QUw=/773x530/smart/filters:quality(60)/images.trvl-media.com/hotels/3000000/2880000/2877300/2877231/6dad50ed_z.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+                                                {
+                            "sort": 3,
+                            "imageId": "SnShIusFNhvtsTnRN9qGSeNc",
+                            "imageUrl": "https://thumbnails.trvl-media.com/rN-SnShIusFNhvtsTnRN9qGSeNc=/773x530/smart/filters:quality(60)/images.trvl-media.com/hotels/3000000/2880000/2877300/2877231/17b3ad1b_z.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        },
+                                      
+                                                {
+                            "sort": 4,
+                            "imageId": "0XSqBSYlz9n40pznjgcXAP9TYNY",
+                            "imageUrl": "https://thumbnails.trvl-media.com/0XSqBSYlz9n40pznjgcXAP9TYNY=/773x530/smart/filters:quality(60)/images.trvl-media.com/hotels/3000000/2880000/2877300/2877231/2135b8c1_z.jpg",
+                            "imageWidth": 350,
+                            "imageHeight": 150,
+                            "dimensionCategory": "Mobile"
+                        }
+                    ],
+                    "texts": [
+                            {
+                                "detailsCode": 2,
+                                "text": "In Basel gelegen, ist das Business-Easyhotel Basel 75 km entfernt vom Flughafen Zurich-Kloten. Easyhotel Basel wurde im Jahr 2004 geöffnet und bietet En-suite Zimmer an. Bekannt für die Lage 1150 m entfernt von Historischer Stadtkern im Viertel Basel Stadtzentrum von Basel, 15 Gehminuten von Rathaus (Begriffsklärung). Das Stadtzentrum ist 2 km von der Unterkunft entfernt. Jedes Zimmer ist mit kabellosem Internet, einem Stauraum, einem Schreibtisch und einer getrennten Toilette ausgestattet. Zimmer sind mit einem privaten Badezimmer mit einer behindertengerechten Dusche, einem Fön und Handtüchern ausgestattet. Die Unterkunft ist 5 Fußminuten von 800 Premium Steakhouse mit italienischen Gerichten gelegen. Der Bahnhof Badischer ist 10 Fußminuten entfernt."
+                            }
+                    ]
+                }
+            ]
+        },
+        "services": [
+                {
+                    "code": 116,
+                    "codeDetails": "Accessible parking"
+                },
+                {
+                    "code": 198,
+                    "codeDetails": "Non-smoking rooms"
+                },
+                {
+                    "code": 343,
+                    "codeDetails": "WLAN"
+                },
+                {
+                    "code": 1,
+                    "codeDetails": "24-hour front desk"
+                },
+                {
+                    "code": 283,
+                    "codeDetails": "Baggage Storage"
+                },
+                {
+                    "code": 2,
+                    "codeDetails": "multilingual staff"
+                },
+                {
+                    "code": 3,
+                    "codeDetails": "late business"
+                },
+                {
+                    "code": 4,
+                    "codeDetails": "smoke detector"
+                },
+                {
+                    "code": 5038,
+                    "codeDetails": "No pets allowed"
+                },
+                {
+                    "code": 311,
+                    "codeDetails": "allergen-free rooms"
+                },
+                {
+                    "code": 36,
+                    "codeDetails": "Express Check-in/Check-out"
+                },
+                {
+                    "code": 312,
+                    "codeDetails": "All Spaces Non-Smoking (public and private)"
+                },
+                {
+                    "code": 76,
+                    "codeDetails": "Restaurant"
+                },
+                {
+                    "code": 96,
+                    "codeDetails": "Dry cleaning"
+                },
+                {
+                    "code": 327,
+                    "codeDetails": "Events ticket service"
+                },
+                {
+                    "code": 6,
+                    "codeDetails": "fax machine/copier"
+                }
+        ]
+    },
+    "affiliationInfo": {
+        "awards": [
+            {
+                "provider": "HotelAssociation",
+                "rating": 2
+            },
+            {
+                "provider": "TripAdvisor",
+                "rating": 4.5
+            }
+        ]
+    },
+    "facilityInfo": {
+        "guestRooms": [
+            {
+                "id": "00U5846d022m1853",
+                "roomTypeName": "Twin with window",
+                "minOccupancy": 1,
+                "maxOccupancy": 3,
+                "maxChildOccupancy": 1,
+                "maxAdultOccupancy": 2,
+                "typeRoom": {
+                    "standardOccupancy": 2,
+                    "standardNumBeds": 2,
+                    "maxCribs": 1,
+                    "maxRollaways": 0,
+                    "composite": false,
+                    "quantity": 6
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 5040,
+                        "codeDetail": "Heating"
+                    },
+                    {
+                        "roomAmenityCode": 5,
+                        "codeDetail": "AM/FM radio"
+                    },
+                    {
+                        "roomAmenityCode": 69,
+                        "codeDetail": "Minibar"
+                    },
+
+                    {
+                        "roomAmenityCode": 5075,
+                        "codeDetail": "Flat-screen TV"
+                    },
+                    {
+                        "roomAmenityCode": 5082,
+                        "codeDetail": "Wooden / Parquet floor"
+                    }
+                ],
+                "multimediaDescriptions": [
+                    {
+                        "images": [
+                            {
+                                "imageId": "3a",
+                                "imageUrl": "https://t-ec.bstatic.com/images/hotel/max1024x768/104/104127465.jpg",
+                                "imageWidth": 350,
+              "imageHeight": 150,
+              "dimensionCategory": "Mobile"
+                            },
+                            {
+                                "imageId": "4a",
+                                "imageUrl": "https://t-ec.bstatic.com/images/hotel/max1024x768/640/64071126.jpg",
+                                "imageWidth": 350,
+              "imageHeight": 150,
+              "dimensionCategory": "Mobile"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "00U5846d022q8765",
+                "roomTypeName": "Small double with window",
+                "minOccupancy": 1,
+                "maxOccupancy": 3,
+                "maxChildOccupancy": 1,
+                "maxAdultOccupancy": 2,
+                "typeRoom": {
+                    "standardOccupancy": 2,
+                    "standardNumBeds": 1,
+                    "maxCribs": 1,
+                    "maxRollaways": 0,
+                    "composite": false,
+                    "quantity": 10
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 5040,
+                        "codeDetail": "Heating"
+                    },
+                    {
+                        "roomAmenityCode": 5,
+                        "codeDetail": "AM/FM radio"
+                    },
+                    {
+                        "roomAmenityCode": 69,
+                        "codeDetail": "Minibar"
+                    },
+
+                    {
+                        "roomAmenityCode": 5075,
+                        "codeDetail": "Flat-screen TV"
+                    },
+                    {
+                        "roomAmenityCode": 5082,
+                        "codeDetail": "Wooden / Parquet floor"
+                    }
+                ],
+                "multimediaDescriptions": [
+                    {
+                        "images": [
+                            {
+                                "imageId": "5a",
+                                "imageUrl": "https://t-ec.bstatic.com/images/hotel/max1024x768/640/64070702.jpg",
+                                "imageWidth": 350,
+              "imageHeight": 150,
+              "dimensionCategory": "Mobile"
+                            },
+                            {
+                                "imageId": "6a",
+                                "imageUrl": "https://s-ec.bstatic.com/images/hotel/max1024x768/640/64070781.jpg",
+                               "imageWidth": 350,
+              "imageHeight": 150,
+              "dimensionCategory": "Mobile"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "00U5846d022l9173",
+                "roomTypeName": "Double with window",
+                "minOccupancy": 1,
+                "maxOccupancy": 3,
+                "maxChildOccupancy": 1,
+                "maxAdultOccupancy": 2,
+                "typeRoom": {
+                    "standardOccupancy": 2,
+                    "standardNumBeds": 1,
+                    "maxCribs": 1,
+                    "maxRollaways": 0,
+                    "composite": false,
+                    "quantity": 5
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 5040,
+                        "codeDetail": "Heating"
+                    },
+                    {
+                        "roomAmenityCode": 5,
+                        "codeDetail": "AM/FM radio"
+                    },
+                    {
+                        "roomAmenityCode": 69,
+                        "codeDetail": "Minibar"
+                    },
+                    
+                    {
+                        "roomAmenityCode": 5075,
+                        "codeDetail": "Flat-screen TV"
+                    },
+                    {
+                        "roomAmenityCode": 5082,
+                        "codeDetail": "Wooden / Parquet floor"
+                    }
+                ],
+                "multimediaDescriptions": [
+                    {
+                        "images": [                            
+                            {
+                                "imageId": "6a",
+                                "imageUrl": "https://s-ec.bstatic.com/images/hotel/max1024x768/640/64070781.jpg",
+                               "imageWidth": 350,
+              "imageHeight": 150,
+              "dimensionCategory": "Mobile"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "00U5846d022o9140",
+                "roomTypeName": "Small double without window",
+                "minOccupancy": 1,
+                "maxOccupancy": 3,
+                "maxChildOccupancy": 1,
+                "maxAdultOccupancy": 2,
+                "typeRoom": {
+                    "standardOccupancy": 2,
+                    "standardNumBeds": 1,
+                    "maxCribs": 1,
+                    "maxRollaways": 0,
+                    "composite": false,
+                    "quantity": 3
+                },
+                "amenities": [
+                    {
+                        "roomAmenityCode": 5040,
+                        "codeDetail": "Heating"
+                    },
+                    {
+                        "roomAmenityCode": 5,
+                        "codeDetail": "AM/FM radio"
+                    },
+                    {
+                        "roomAmenityCode": 69,
+                        "codeDetail": "Minibar"
+                    },
+                   
+                    {
+                        "roomAmenityCode": 5075,
+                        "codeDetail": "Flat-screen TV"
+                    },
+                    {
+                        "roomAmenityCode": 5082,
+                        "codeDetail": "Wooden / Parquet floor"
+                    }
+                ],
+                 "multimediaDescriptions": [
+                    {
+                        "images": [                            
+                            {
+                                "imageId": "6a",
+                                "imageUrl": "https://s-ec.bstatic.com/images/hotel/max1024x768/640/64070781.jpg",
+                               "imageWidth": 350,
+              "imageHeight": 150,
+              "dimensionCategory": "Mobile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "contactInfos": [
+        {
+            "companyName": "Easyhotel Basel",
+            "addresses": [
+                {
+                    "streetNmbr": "109",
+                    "addressLine": "Riehenring",
+                    "cityName": "Basel",
+                    "postalCode": "4058",
+                    "stateProv": "Basel-Stadt",
+                    "countryName": "Schweiz"
+                }
+            ],
+            "phones": [
+                {
+                    "phoneTechType": 1,
+                    "countryAccessCode": 41,
+                    "phoneNumber": "0616835580"
+                }
+            ]
+        }
+    ],
+    "policies": {
+        "policyInfo": {
+            "minChildAge": 0,
+            "maxChildAge": 5
+        }
+    }
+}
