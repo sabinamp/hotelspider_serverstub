@@ -1,6 +1,8 @@
+# BedwasteServer
+This generated server has been adjust to fit the needs of the project BedWaste.
 # Swagger generated server
 
-Spring Boot Server 
+This a Spring Boot with Maven project. As described below, the original server stub has been generated from  https://app.swaggerhub.com/apis/Hotel-Spider/hotel_spider_crs_api/2.0. Both a client stub for Android and a server stub have been generated for use in Bedwaste application. However they had to be adjusted to the needs of the app. 
 
 
 ## Overview  
