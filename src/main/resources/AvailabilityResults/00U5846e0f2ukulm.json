@@ -4,7 +4,7 @@
     "products": [
     {
         "rateplanId": "00U5846e0f2ukulm-Double Panaroma Room",
-        "totalPrice": 321,
+        "totalPrice": 221,
         "discount": 5,
         "currency": "CHF",
         "isBar": false,
@@ -14,7 +14,7 @@
       },
       {
         "rateplanId": "00U5846e0f2ukulm-Romantic Suite",
-        "totalPrice": 257,
+        "totalPrice": 207,
         "discount": 10,
         "currency": "CHF",
         "isBar": false,

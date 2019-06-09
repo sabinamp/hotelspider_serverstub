@@ -4,7 +4,7 @@
     "products": [
       {
         "rateplanId": "01W5X_singleAdult_inDouble",
-        "totalPrice": 259,
+        "totalPrice": 159,
         "discount": 10,
         "currency": "CHF",
         "isBar": false,
@@ -14,7 +14,7 @@
       },
             {
         "rateplanId": "01x5X_singleAdult_inDouble",
-        "totalPrice": 256,
+        "totalPrice": 156,
         "discount": 10,
         "currency": "CHF",
         "isBar": false,
@@ -24,7 +24,7 @@
       },
             {
         "rateplanId": "01W5X_singleAdult_inSuite",
-        "totalPrice": 296,
+        "totalPrice": 196,
         "discount": 10,
         "currency": "CHF",
         "isBar": false,

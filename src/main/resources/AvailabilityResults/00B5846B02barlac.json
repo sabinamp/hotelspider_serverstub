@@ -5,7 +5,7 @@
        
       {
         "rateplanId": "00B5846B02barlac-City Suite",
-        "totalPrice": 355,
+        "totalPrice": 175,
         "discount": 15,
         "currency": "CHF",
         "isBar": false,
@@ -15,7 +15,7 @@
       },
       {
         "rateplanId": "00B5846B02barlac-Double",
-        "totalPrice": 268,
+        "totalPrice": 128,
         "discount": 15,
         "currency": "CHF",
         "isBar": false,

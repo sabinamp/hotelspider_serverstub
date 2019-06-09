@@ -4,7 +4,7 @@
     "products": [
         {
         "rateplanId": "00U5847f022marri-Double Deluxe",
-        "totalPrice": 319,
+        "totalPrice": 119,
         "discount": 15,
         "currency": "CHF",
         "isBar": false,
@@ -14,7 +14,7 @@
       },
       {
         "rateplanId": "00U5847f022marri-Suite Panorama",
-        "totalPrice": 366,
+        "totalPrice": 166,
         "discount": 15,
         "currency": "CHF",
         "isBar": false,

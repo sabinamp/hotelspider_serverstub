@@ -4,7 +4,7 @@
     "products": [
          {
         "rateplanId": "00U5846j020d210g-Single Style",
-        "totalPrice": 217,
+        "totalPrice": 117,
         "discount": 15,
         "currency": "CHF",
         "isBar": false,
@@ -15,7 +15,7 @@
       
         {
         "rateplanId": "00U5846j020d210g-Double",
-        "totalPrice": 306,
+        "totalPrice": 146,
         "discount": 15,
         "currency": "CHF",
         "isBar": false,

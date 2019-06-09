@@ -4,7 +4,7 @@
     "products": [
        {
         "rateplanId": "00U5844f022rigib-Junior Suite",
-        "totalPrice": 192,
+        "totalPrice": 92,
         "discount": 15,
         "currency": "CHF",
         "isBar": false,
@@ -14,7 +14,7 @@
       },
       {
         "rateplanId": "00U5844f022rigib-Deluxe Apartment",
-        "totalPrice": 325,
+        "totalPrice": 125,
         "discount": 15,
         "currency": "CHF",
         "isBar": false,

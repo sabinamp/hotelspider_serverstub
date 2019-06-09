@@ -5,7 +5,7 @@
 
       {
         "rateplanId": "00G5846t022gotth-Junior Suite",
-        "totalPrice": 310,
+        "totalPrice": 160,
         "discount": 15,
         "currency": "CHF",
         "isBar": false,
@@ -15,7 +15,7 @@
       },
       {
         "rateplanId": "00G5846t022gotth-Double",
-        "totalPrice": 360,
+        "totalPrice": 190,
         "discount": 35,
         "currency": "CHF",
         "isBar": false,

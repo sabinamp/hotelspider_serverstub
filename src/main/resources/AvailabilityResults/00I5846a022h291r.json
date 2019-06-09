@@ -4,7 +4,7 @@
     "products": [
        {
         "rateplanId": "00I5846a022h291r-Junior Suite",
-        "totalPrice": 255,
+        "totalPrice": 155,
         "discount": 15,
         "currency": "CHF",
         "isBar": false,
@@ -15,7 +15,7 @@
        
       {
         "rateplanId": "00I5846a022h291r-Double",
-        "totalPrice": 365,
+        "totalPrice": 265,
         "discount": 15,
         "currency": "CHF",
         "isBar": false,

@@ -4,7 +4,7 @@
     "products": [
         {
         "rateplanId": "00G5846t022easyh-Twin with window",
-        "totalPrice": 207,
+        "totalPrice": 107,
         "discount": 15,
         "currency": "CHF",
         "isBar": false,
@@ -14,7 +14,7 @@
       },
        {
         "rateplanId": "00G5846t022easyh-Small double with window",
-        "totalPrice": 134,
+        "totalPrice": 84,
         "discount": 15,
         "currency": "CHF",
         "isBar": false,
@@ -24,7 +24,7 @@
       },
       {
         "rateplanId": "00G5846t022easyh-Double with window",
-        "totalPrice": 326,
+        "totalPrice": 126,
         "discount": 15,
         "currency": "CHF",
         "isBar": false,
@@ -34,7 +34,7 @@
       },
       {
         "rateplanId": "00G5846t022easyh-Small double without window",
-        "totalPrice": 100,
+        "totalPrice": 80,
         "discount": 15,
         "currency": "CHF",
         "isBar": false,

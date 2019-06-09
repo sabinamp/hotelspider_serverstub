@@ -4,7 +4,7 @@
     "products": [
       {
         "rateplanId": "00B5846t02termin-Junior Suite",
-        "totalPrice": 305,
+        "totalPrice": 150,
         "discount": 10,
         "currency": "CHF",
         "isBar": false,
@@ -15,7 +15,7 @@
                  
       {
         "rateplanId": "00B5846t02termin-Superior Single",
-        "totalPrice": 235,
+        "totalPrice": 105,
         "discount": 0,
         "currency": "CHF",
         "isBar": false,

@@ -4,7 +4,7 @@
     "products": [
       {
         "rateplanId": "00U5845f022rotesh-Single",
-        "totalPrice": 195,
+        "totalPrice": 95,
         "discount": 15,
         "currency": "CHF",
         "isBar": false,
@@ -15,7 +15,7 @@
 
       {
         "rateplanId": "00U5845f022rotesh-Double",
-        "totalPrice": 306,
+        "totalPrice": 106,
         "discount": 15,
         "currency": "CHF",
         "isBar": false,
